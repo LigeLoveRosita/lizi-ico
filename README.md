@@ -47,6 +47,7 @@
 ├── index.html          # Main application file
 ├── favicon.ico         # Sample ICO file
 ├── main.jpg            # Sample image for testing
+├── vercel.json         # Vercel deployment configuration
 └── README.md           # This file
 ```
 
@@ -56,6 +57,23 @@
 - Blob API for file handling
 - Internationalization (i18n) for multi-language support
 - Responsive design for all screen sizes
+
+### Deploy on Vercel
+
+Click the button below to deploy instantly:
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F YOUR_REPO_HERE)
+
+Or deploy manually:
+
+1. Push this repository to GitHub
+2. Log in to [Vercel](https://vercel.com)
+3. Click **"Add New"** → **"Project"**
+4. Import your GitHub repository
+5. Vercel will auto-detect it as a static project — **no additional configuration needed**
+6. Click **"Deploy"**
+
+Your site will be live within seconds at a `.vercel.app` domain. You can also add a custom domain in the Vercel dashboard.
 
 ---
 
@@ -102,6 +120,7 @@
 ├── index.html          # 主應用程序文件
 ├── favicon.ico         # 示例 ICO 文件
 ├── main.jpg            # 測試用示例圖片
+├── vercel.json         # Vercel 部署配置
 └── README.md           # 本文件
 ```
 
@@ -111,6 +130,23 @@
 - 使用 Blob API 處理文件
 - 國際化（i18n）支持多語言
 - 響應式設計，適配各種屏幕尺寸
+
+### 部署到 Vercel
+
+點擊下方按鈕一鍵部署：
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F YOUR_REPO_HERE)
+
+或手動部署：
+
+1. 將此倉庫推送到 GitHub
+2. 登錄 [Vercel](https://vercel.com)
+3. 點擊 **"Add New"** → **"Project"**
+4. 導入您的 GitHub 倉庫
+5. Vercel 會自動識別為靜態項目 — **無需額外配置**
+6. 點擊 **"Deploy"**
+
+您的網站將在幾秒內上線，獲得一個 `.vercel.app` 域名。您也可以在 Vercel 控制台中添加自定義域名。
 
 ---
 
@@ -157,6 +193,7 @@
 ├── index.html          # 主应用程序文件
 ├── favicon.ico         # 示例 ICO 文件
 ├── main.jpg            # 测试用示例图片
+├── vercel.json         # Vercel 部署配置
 └── README.md           # 本文件
 ```
 
@@ -166,6 +203,23 @@
 - 使用 Blob API 处理文件
 - 国际化（i18n）支持多语言
 - 响应式设计，适配各种屏幕尺寸
+
+### 部署到 Vercel
+
+点击下方按钮一键部署：
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F YOUR_REPO_HERE)
+
+或手动部署：
+
+1. 将此仓库推送到 GitHub
+2. 登录 [Vercel](https://vercel.com)
+3. 点击 **"Add New"** → **"Project"**
+4. 导入您的 GitHub 仓库
+5. Vercel 会自动识别为静态项目 — **无需额外配置**
+6. 点击 **"Deploy"**
+
+您的网站将在几秒内上线，获得一个 `.vercel.app` 域名。您也可以在 Vercel 控制台中添加自定义域名。
 
 ---
 
